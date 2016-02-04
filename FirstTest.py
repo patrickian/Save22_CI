@@ -5,3 +5,4 @@ print b
 print "test"
 print "asd"
 print "must work!!"
+print "remove pyflakes in step"
