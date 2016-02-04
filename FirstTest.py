@@ -3,6 +3,6 @@ b = 2
 print da
 print b
 print "test"
-print "asd"
+print "aaaasd"
 print "must work!!"
 print "remove pyflakes in step"
